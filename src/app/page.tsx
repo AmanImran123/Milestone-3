@@ -2,6 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { simpleBlogCard } from "../sanity/interface";
 import client from "@/sanity/lib/client"
 import { urlFor } from "@/sanity/lib/image";
+import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import {
