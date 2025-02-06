@@ -51,7 +51,7 @@ export default async function BlogPage({
             <span className="font-semibold text-black dark:text-white">
               By:
             </span>{" "}
-            Muhammad Arsalan{" "}
+            Atif Ahmed{" "}
           </p>
         </div>
         {/* Author Text Ends! */}
