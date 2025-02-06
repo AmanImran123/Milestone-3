@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { fullBlog } from "../../../sanity/interface";
 import SanityClient from "@/sanity/lib/client"
 import { urlFor } from "@/sanity/lib/image";
